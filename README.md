@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techie505&show_icons=true&locale=en" alt="techie505" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techie505&" alt="techie505" /></p>
-(https://holopin.me/techie505)](https://holopin.io/@techie505)
+holopin.io/@techie505
